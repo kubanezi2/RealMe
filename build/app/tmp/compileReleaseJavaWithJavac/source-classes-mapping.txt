@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/erlage/photogram/BuildConfig.java
+ com.erlage.photogram.BuildConfig
